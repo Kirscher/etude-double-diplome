@@ -1,4 +1,4 @@
-## Etude Double-diplômes chez les ingénieurs français
+## Double-diplômes chez les ingénieurs français
 Une rapide étude de l'influence d'un double-diplôme sur la carrière des ingénieurs français.
 
 ### Sources
