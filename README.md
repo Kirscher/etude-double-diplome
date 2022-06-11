@@ -1,5 +1,5 @@
 ## Double-diplômes chez les ingénieurs français
-Une rapide étude de l'influence d'un double-diplôme sur la carrière des ingénieurs français.
+Une rapide étude de l'influence d'un double-diplôme sur la carrière et la rémunération des ingénieurs français.
 
 ### Sources
 *IESF - 32ème enquête nationale sur les ingénieurs et scientifiques diplômés en France*
